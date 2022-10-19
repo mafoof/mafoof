@@ -1,16 +1,16 @@
 - 👋 Hi, I’m @mafoof
       <br>My actual name is Sabrina Martinez. Pleased to meet you!
-        <br>I am currently a third-year at Emory University studying a B.S in Computer Science.
+        <br>I am currently a fourth-year at Emory University studying a B.S in Computer Science.
         
 - 👀 I’m interested in ...
       <br>-All things coding.
       <br>- Game development, design, and the industry.
       
 - 🌱 I’m currently learning ...
-    <br>HTML, AI, and more!
+    <br>Machine Learning, competitive programming, and more!
     
 - 📫 How to reach me ...
-    <br>smart57@emory.edu
+    <br>sabrina.anna.martinez@gmail.com
     <br>(928)285-3381
 
 <!---
