@@ -6,8 +6,6 @@
       <br>-All things coding.
       <br>- Game development, design, and the industry.
       
-- 🌱 I’m currently learning ...
-    <br>Machine Learning, competitive programming, and more!
     
 - 📫 How to reach me ...
     <br>sabrina.anna.martinez@gmail.com
